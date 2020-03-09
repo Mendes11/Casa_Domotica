@@ -1,0 +1,58 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'Domotica_Reles.pdsprj'.
+CADCAM generated at 10:00:51 on quarta-feira, 8 de março de 2017.
+
+File List
+---------
+Top Copper              : Domotica_Reles - CADCAM Top Copper.TXT
+Bottom Copper           : Domotica_Reles - CADCAM Bottom Copper.TXT
+Top Silk Screen         : Domotica_Reles - CADCAM Top Silk Screen.TXT
+Top Solder Resist       : Domotica_Reles - CADCAM Top Solder Resist.TXT
+Bottom Solder Resist    : Domotica_Reles - CADCAM Bottom Solder Resist.TXT
+Mechanical 1            : Domotica_Reles - CADCAM Mechanical 1.TXT
+Drill                   : Domotica_Reles - CADCAM Drill.TXT
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 2.4, imperial, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer
+
+D10	SQUARE  S=80th                                                            FLASH
+D11	CIRCLE  D=70th                                                            FLASH
+D12	CIRCLE  D=60th                                                            FLASH
+D13	SQUARE  S=50th                                                            FLASH
+D14	CIRCLE  D=50th                                                            FLASH
+D15	CIRCLE  D=120th                                                           FLASH
+D16	CIRCLE  D=100th                                                           FLASH
+D17	CIRCLE  D=90th                                                            FLASH
+D18	CIRCLE  D=250th                                                           FLASH
+D19	CIRCLE  D=8th                                                             DRAW
+D70	CIRCLE  D=90th                                                            DRAW
+D71	CIRCLE  D=40th                                                            DRAW
+D20	CIRCLE  D=60th                                                            DRAW
+D21	CIRCLE  D=30th                                                            DRAW
+D22	CIRCLE  D=2.5th                                                           DRAW
+D23	SQUARE  S=100th                                                           FLASH
+D24	CIRCLE  D=80th                                                            FLASH
+D25	SQUARE  S=70th                                                            FLASH
+D26	CIRCLE  D=150th                                                           FLASH
+D27	CIRCLE  D=130th                                                           FLASH
+D28	CIRCLE  D=110th                                                           FLASH
+D29	CIRCLE  D=290th                                                           FLASH
+
+NC Drill Setup
+--------------
+Format: ASCII, 2.4, imperial, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	40th (0-15)
+T02	30th (0-15)
+T03	60th (0-15)
+T04	118.1th (0-15)
+
+
+[END OF FILE]
