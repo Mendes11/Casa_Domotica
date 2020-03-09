@@ -1,0 +1,32 @@
+<?php
+
+class Autenticar{
+	// constructor
+	
+    function __construct() {
+
+    }
+
+    // destructor
+    function __destruct() {
+        // closing db connection
+        
+    }
+	
+	function isAuthentic($iIDUsuario){
+		addslashes($iIDUsuario);
+		$sql = "Select iIDUsuario from Usuarios where iIDUsuario = ".$iIDUsuario.";";
+		$result = mysql_query($sql);
+		if(!empty($result)){
+			if (mysql_num_rows($result) > 0) {
+				return true;
+			}else{
+				return false;
+			}
+		}else{
+			return false;
+		}
+	}
+}
+
+?>
