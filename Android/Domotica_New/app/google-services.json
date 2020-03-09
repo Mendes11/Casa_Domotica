@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "143235831090",
+    "firebase_url": "https://domotica-1d982.firebaseio.com",
+    "project_id": "domotica-1d982",
+    "storage_bucket": "domotica-1d982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143235831090:android:b6ffae4c9c43cc78",
+        "android_client_info": {
+          "package_name": "br.com.cozinheirodelivery.domotica_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143235831090-p5r5cjrr2844fu78u4347vfho0vo3j1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7Tl4NppuYfdIeWEX1kcKg779r0bxvdg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

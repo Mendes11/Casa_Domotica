@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.2.0_05686b7aac81731283ec5f7b294b9e65a01f31d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a7142169e3ac3f776705b2da521b6d54f42ae20">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\instant-run_6804c180ad854bef2b8d1ff8385d70523fcfd172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_8b1f334d496d69c2ba1a8d86a85d433ab1b43453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.0_2c7daa6450d25d78540250fbced3939545b84aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_7da8d665d8ebb3f612e640f8be51ce6a14ad029f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_f6b510d938efb86491a109b5e8e27eacad00cfa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.0_298f13fcce433408b686bcc39c589e6af2302ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.2.0_c91330fc9d4187653b680b025829ad78e2693c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_96592474635ab20f4376eefd311f46f4f63a8acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.2.0_682ca411268d83c194913ade5b4520d014ba5770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.github.paolorotolo\expandableheightlistview\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb983545e8efd14596a3d8e377751f41fa5b2fa3">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.github.paolorotolo-expandableheightlistview-1.0.0_2832b8ba0a95e39e66273ccc17051a6a927b939c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_c1a34a342c0e30d94f731592b3af998779053561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_252960fc300ca41ca106363a0101503841aa9f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_bacd58f7267f13965dce849e17d596862bbcca24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_8345ac783cc087b5b007a9a8fa975eff7d7609d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48fff880d1fac6829dbaf462cf1d583232ba55e4">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d8ad80e3d324e58ae9cdab2044376de9cd1b0090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.0_aa22a95a4f044b8cc9c9f5f40fea66f1afda3fe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_e82d99dfb0c3cc1afa11e137b636dfc4d651841b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.2.0_9cbe2c28b7997fb2dfa37fd8080fdc2011d095c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_9cfb9b098108e2d70640b4bc27157263cbcac5ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_0acce1abcac7684468d316489ba47f886e843c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.0_4c3db110951c864ca15c33ad010404ef65d16bad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_70451c837b5471b2ed517ad533cce2e52f21e63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_72ab22ac44570c342646b0d3525e86b89032dbca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.2.0_22d27b2f7a86c872c606fba522005b709712768c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_111a6a0f98d4152cf3262f20edfef387f451fea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_a04c9302247aa2c0dd91697b753a599126b82529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_038deb7875c752bb8277176d43bc5be5182f2f6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_c375952333ae834d1fb22ff7393426aef69de795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_2e6f2fea182c4b5eea3c1e243b4b6bece3701c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_05983d009689f2cc735d9b7676e6b488f49b7cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_a39aad8f14a15034583246176eced15cfceb0c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.2.0_80e99d94d9c68b483c485ba51c5cd2558afcf107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Mendes\StudioProjects\Domotica_New\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_745e511a626630cb78c4533d343609605312a754.jar" />
+    </item>
+
+</items>
